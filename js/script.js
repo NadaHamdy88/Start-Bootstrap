@@ -1,6 +1,5 @@
 
 $(document).ready(function(){
-
     $(window).scroll(function(){
         var w = $(this).scrollTop()
         if ( w > 100) {
